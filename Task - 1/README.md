@@ -1,6 +1,6 @@
 # Task 1
 
-# House Price Prediction
+# House Price Detection
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project involves predicting house prices based on various features using ma
 
 ## Dataset
 
-- **File:** `house_prices.csv`
+- **File:** [HousePriceDetection](https://docs.google.com/spreadsheets/d/1caaR9pT24GNmq3rDQpMiIMJrmiTGarbs/edit?rtpof=true&sd=true&pli=1#gid=1150341366)
 - **Features:**
   - `Id`: Unique identifier for each house
   - `MSSubClass`: Identifies the type of dwelling
