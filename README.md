@@ -4,7 +4,7 @@ This repository contains all the files related to the Machine Learning Internshi
 
 ## Projects
 
-### 1. House Price Prediction
+### 1. House Price Detection
 
 #### Overview
 This project involves predicting house prices based on various features using machine learning algorithms. The dataset includes information such as the size of the house, number of rooms, and location. The goal was to build a model that accurately estimates house prices.
