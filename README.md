@@ -18,11 +18,11 @@ This project involves predicting house prices based on various features using ma
 1. **Data Loading**: Loaded the dataset into a Pandas DataFrame.
 2. **Data Cleaning**: Handled missing values, encoded categorical variables, and removed duplicates.
 3. **Feature Selection**: Selected relevant features for model training.
-4. **Model Building**: Implemented and evaluated models including Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, and Support Vector Regressor.
+4. **Model Building**: Implemented and evaluated Linear Regression.
 5. **Model Evaluation**: Compared models using Mean Squared Error (MSE) and R-squared metrics.
 
 #### Results
-- **Best Model**: Gradient Boosting Regressor
+- **Best Model**: Linear Regression
   - **Mean Squared Error**: 1,310,612,221.60
   - **R-squared**: 0.83
 
@@ -39,13 +39,12 @@ This project focuses on classifying emails as spam or ham (non-spam) using machi
 #### What Was Done
 1. **Data Loading**: Loaded the dataset and examined its structure.
 2. **Data Cleaning**: Removed special symbols and irrelevant information from email texts.
-3. **Text Preprocessing**: Tokenized and vectorized text data using TF-IDF.
-4. **Feature Extraction**: Created features from the email text for model training.
-5. **Model Building**: Implemented models including Logistic Regression, Naive Bayes, and Support Vector Machine (SVM).
-6. **Model Evaluation**: Assessed models using accuracy, precision, recall, and F1-score metrics.
+3. **Feature Extraction**: Created features from the email text for model training.
+4. **Model Building**: Implemented Logistic Regression model.
+5. **Model Evaluation**: Assessed models using accuracy, precision, recall, and F1-score metrics.
 
 #### Results
-- **Best Model**: Naive Bayes
+- **Best Model**: Logistic Regression
   - **Accuracy**: 98.5%
   - **Precision**: 98.7%
   - **Recall**: 98.3%
@@ -65,11 +64,11 @@ This project aims to predict the presence of heart disease based on various medi
 1. **Data Loading**: Loaded the dataset and reviewed its structure.
 2. **Data Cleaning**: Handled missing values and encoded categorical variables.
 3. **Feature Selection**: Selected important features based on correlation analysis.
-4. **Model Building**: Tried various models including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting.
+4. **Model Building**: Implemented Logistic Regression model.
 5. **Model Evaluation**: Evaluated models using accuracy, precision, recall, F1-score, and confusion matrix.
 
 #### Results
-- **Best Model**: Gradient Boosting Classifier
+- **Best Model**: Logistic Regression
   - **Accuracy**: 85%
   - **Precision**: 84%
   - **Recall**: 86%
