@@ -8,7 +8,7 @@ This project focuses on classifying emails as spam or ham (non-spam) using machi
 
 ## Dataset
 
-- **File:** `spam-mails-dataset.csv`
+- **File:** [SpamDetection](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
 - **Features:**
   - `Unnamed: 0`: Index
   - `label`: Spam or ham (target variable)
