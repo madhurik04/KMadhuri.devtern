@@ -18,11 +18,11 @@ This project involves predicting house prices based on various features using ma
 1. **Data Loading**: Loaded the dataset into a Pandas DataFrame.
 2. **Data Cleaning**: Handled missing values, encoded categorical variables, and removed duplicates.
 3. **Feature Selection**: Selected relevant features for model training.
-4. **Model Building**: Implemented and evaluated Linear Regression.
+4. **Model Building**: Implemented and evaluated models including Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, and Support Vector Regressor.
 5. **Model Evaluation**: Compared models using Mean Squared Error (MSE) and R-squared metrics.
 
 #### Results
-- **Best Model**: Linear Regression
+- **Best Model**: Gradient Boosting Regressor
   - **Mean Squared Error**: 1,310,612,221.60
   - **R-squared**: 0.83
 
